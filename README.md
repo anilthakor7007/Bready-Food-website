@@ -4,14 +4,6 @@ A modern, responsive food-themed website built using **React.js** and **Tailwind
 
 [🔗 Live Demo](https://bready-food-website.vercel.app/)
 
----
-
-## 📸 Preview
-
-![Bready Website Preview](https://www.awesomescreenshot.com/video/40418505?key=76f8572d22f0f8ec2d5fb89f15a192d8) <!-- Replace with actual preview image URL if available -->
-
----
-
 ## ✨ Features
 
 - 🧩 Clean and minimal UI design
