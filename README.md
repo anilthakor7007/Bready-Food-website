@@ -8,7 +8,7 @@ A modern, responsive food-themed website built using **React.js** and **Tailwind
 
 ## 📸 Preview
 
-![Bready Website Preview](https://bready-food-website.vercel.app/preview-image.jpg) <!-- Replace with actual preview image URL if available -->
+![Bready Website Preview]([https://bready-food-website.vercel.app/preview-image.jpg](https://www.awesomescreenshot.com/video/40418505?key=76f8572d22f0f8ec2d5fb89f15a192d8)) <!-- Replace with actual preview image URL if available -->
 
 ---
 
